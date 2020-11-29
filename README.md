@@ -1,5 +1,5 @@
 # Algorithms-4th
-https://img.shields.io/badge/JDK-v15.0.1-blue
+![](https://img.shields.io/badge/JDK-v15.0.1-blue)
 算法（第四版）的代码实践，原书采用Java进行讲授
 
 ## 相关环境配置
