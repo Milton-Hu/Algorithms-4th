@@ -21,3 +21,9 @@
 ```java
 import edu.princeton.cs.algs4.*;
 ```
+
+#### 参考博客
+
+[算法 第四版 在Eclipse中调用Algs4库](https://blog.csdn.net/xfyangle/article/details/81265246)
+
+[IntelliJ IDEA搭建算法第四版的环境（导入algs4.jar）](https://blog.csdn.net/qq_43152052/article/details/100155374)
