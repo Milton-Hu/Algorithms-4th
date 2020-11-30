@@ -1,10 +1,9 @@
 # Algorithms-4th
-<p align="center">
+
 ![](https://img.shields.io/badge/JDK-v15.0.1-blue)
-</p>
-<p align="center">
+
 算法（第四版）的代码实践，原书采用Java进行讲授
-</p>
+
 ## 相关环境配置
 ### IDE
 我使用的IDE为Eclipse，JDK为15.0.1，具体的下载安装方式是参考了[廖老师的Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744/1280507291631649)
